@@ -2,7 +2,7 @@
 <h3 align="center"></h3>
 
 - 🔭 I’m in my 1st year in btech cse course in UPES, Dehradun.
-- 🌱 I’m presently learning  git
-- 💬My hobbies are currently open source
+- 🌱 I’m presently learning  Web Development
 
-- ⚡ Fun fact about me :   *Fun Fact*
+
+
